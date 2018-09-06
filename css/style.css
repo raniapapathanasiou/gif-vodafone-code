@@ -1,0 +1,23 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: none;
+}
+
+
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+
+}
+#h0mepage {
+  background-image: url("../images/6.jpg");
+  height:800px;
+  background-size:cover;
+  background-position:center;
+  padding-top:250px;
+  font-family:"amaranth";
+}
