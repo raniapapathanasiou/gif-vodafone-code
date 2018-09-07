@@ -12,7 +12,7 @@
 
 }
 #h0mepage {
-  background-image: url("../images/6.jpg");
+
   height:800px;
   background-size:cover;
   background-position:center;
@@ -39,10 +39,38 @@
 }
 #facebook{
 font-size: 30px;
-  padding-top:370px;
-  color:white;
+  color:black;
 }
 #instagram{
 font-size: 30px;
-  color:white;
+  color:black;
+}
+.span4 {
+  border:3px solid black
+
+}
+
+
+.row h2{
+  font-family: serif
+}
+.content-heading h2{
+  font-family: serif;
+}
+
+.breakfast{
+  background-image: linear-gradient(#e7ed4e, #9eef7f);
+}
+
+.lunch{
+  background-image: linear-gradient(#9eef7f, #31cec9);
+}
+.dinner{
+  background-image: linear-gradient(#31cec9, #358be8);
+}
+.carousel-control.right span,
+.carousel-control.left span{
+  font-size: 40px;
+  position: absolute;
+  top: 40%;
 }
