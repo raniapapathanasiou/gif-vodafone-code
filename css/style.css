@@ -26,3 +26,23 @@
 .container-fluid{
   padding-top:20px;
 }
+#h0mepage{
+  font-family:serif;
+  color:white;
+}
+.img-circle{
+  height:300px;
+  width: 300px;
+}
+#footer{
+  align:center;
+}
+#facebook{
+font-size: 30px;
+  padding-top:370px;
+  color:white;
+}
+#instagram{
+font-size: 30px;
+  color:white;
+}
