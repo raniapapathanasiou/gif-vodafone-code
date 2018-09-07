@@ -35,15 +35,19 @@
   width: 300px;
 }
 #footer{
-  align:center;
+  text-align:center;
+  background-color: #222;
+  color: #fff;
+  padding: 15px;
+  box-sizing: border-box;
 }
 #facebook{
 font-size: 30px;
-  color:black;
+  color: white;
 }
 #instagram{
-font-size: 30px;
-  color:black;
+  font-size: 30px;
+  color:white;
 }
 .span4 {
   border:3px solid black
